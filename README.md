@@ -22,7 +22,7 @@ MySQL Server (version 5.7 or higher) installed.
 MySQL client (e.g., MySQL Workbench, command-line client, or phpMyAdmin).
 
 
-Steps:
+Steps: 1
 
 Clone this repository: git clone <repository-url>
 Open your MySQL client and connect to your MySQL server.
