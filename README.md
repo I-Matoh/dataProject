@@ -9,7 +9,7 @@ Features:
 
 Books: Stores book details (title, ISBN, author, etc.) with constraints on ISBN and copy counts.
 Authors: Stores author information, linked to books (one-to-many).
-Members: Tracks library members with unique emails.
+Members: Tracks library members with unique emails
 Loans: Manages book borrowing and returns, with due dates and fines.
 Categories: Organizes books by genre, with a many-to-many relationship via a junction table.
 Indexes: Added for optimized querying on frequently accessed columns.
