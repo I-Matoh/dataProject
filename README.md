@@ -5,7 +5,7 @@ Build a Complete Database Management System
 Library Management System
 Project Description
 This project is a MySQL-based relational database for a Library Management System. It manages books, members, authors, categories, and book loans. The database is designed with proper constraints (primary keys, foreign keys, NOT NULL, UNIQUE, CHECK) and relationships (one-to-many and many-to-many) to ensure data integrity and efficient querying.
-Features
+Features:
 
 Books: Stores book details (title, ISBN, author, etc.) with constraints on ISBN and copy counts.
 Authors: Stores author information, linked to books (one-to-many).
